@@ -1,0 +1,26 @@
+*** USER TABLE ***  
+id
+user_id
+user_email
+user_password
+user_role(admin, teacher, student)
+user_name
+user_subbbject
+user_mobile
+
+
+*** SUBJECT TABLE ***
+id
+subb_id
+subb_name
+
+
+*** QUESTIONS TABLE ***
+id 
+que_id
+ans_link
+subb_id
+
+
+
+
